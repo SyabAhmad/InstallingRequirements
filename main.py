@@ -21,5 +21,7 @@ print("First of all Subscribe to My YouTube Channel Here")
 print("YouTube Channel: Real Coder # LINK")
 
 print("1: Python")
-print("2: metaspoit")
+print("2: Metaspoit")
+print("3: ZPhisher")
+print("4: Reverse Engineering")
 
