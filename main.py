@@ -20,8 +20,8 @@ print("Hey Folks, Let me Tell You SomeThing Before using this tool\n this is for
 print("First of all Subscribe to My YouTube Channel Here")
 print("YouTube Channel: Real Coder # LINK")
 
-print("1: Python")
-print("2: Metaspoit")
-print("3: ZPhisher")
-print("4: Reverse Engineering")
+print("1: Python") # selection for python
+print("2: Metaspoit") # selection for meta spoit
+print("3: ZPhisher") # selection for Z-Phisher
+print("4: Reverse Engineering") # selection for Social Engineering
 
